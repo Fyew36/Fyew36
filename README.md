@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1793D1,100:892CA0&height=220&section=header&text=Hi%20there,%20I'm%20Nam%20👋&fontSize=50&animation=twinkling&fontColor=ffffff" />
 </p>
 
-<!-- 🐍 SNAKE ANIMATION 🐍 -->
+<!-- 🐍 CUSTOM OCEAN & ORANGE SNAKE ANIMATION 🐍 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fyew36/Fyew36/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Fyew36/Fyew36/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ### 👤 About Me
