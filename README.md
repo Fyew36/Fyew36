@@ -9,6 +9,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fyew36/Fyew36/output/github-contribution-grid-snake.svg">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1793D1&center=true&vCenter=true&width=500&height=40&lines=Building+Minecraft+Modules...;Arch+Linux+User+%F0%9F%90%A7;Coding+with+the+perfect+vibe...%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+---
+
 ### 👤 About Me
 - 🎓 I am a middle school student.
 - 🐧 I am a Linux user.
@@ -22,9 +28,6 @@
   <!-- OS & Shells -->
   <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-Fish-892CA0?style=for-the-badge&logo=fish&logoColor=white" />
-  
-  <br/>
-  
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
